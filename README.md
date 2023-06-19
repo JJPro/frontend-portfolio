@@ -11,3 +11,7 @@
 ### Interactive Map
 
 ![interactive map](assets/lhr/interactive-map.gif)
+
+### Sidebar UI
+
+![sidebar design](assets/ff/sidebar-design.jpg)
